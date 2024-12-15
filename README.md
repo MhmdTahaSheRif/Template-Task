@@ -20,4 +20,4 @@
 ## ✨ Live Demo
 
 Explore the interactive features and dynamic elements of TEMPLATE-TASK by visiting the hosted page on Github:
-[TEMPLATE-TASK ](https://mhmdtahasherif.github.io/TEMPLATE-TASK/)
+[TEMPLATE-TASK ](https://mhmdtahasherif.github.io/Template-Task/)
